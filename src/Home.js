@@ -80,16 +80,16 @@ function Home() {
                 <div className="container-categories">
                   <div className="card-category category-moca">
                     <p>Tarjeta de Crédito</p>
-                    <span>Ver más</span>
+                   
                     
                   </div>
                   <div className="card-category category-expreso">
                     <p>Tarjeta de Débito</p>
-                    <span>Ver más</span>
+                    
                   </div>
                   <div className="card-category category-capuchino">
                     <p>Finanzas</p>
-                    <span>Ver más</span>
+                    
                   </div>
                 </div>
               </section>
